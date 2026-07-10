@@ -1,6 +1,6 @@
 <h1>Hey there, I am Parth! <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"></h1>
 
-<p>Welcome to my page! I'm Parth, FullStack Software Engineer & Enthusiastic about open-source collaborative coding!.</p>
+<p>Welcome to my page! I'm Parth, a Full-Stack Software Engineer.</p>
 <hr/>
 <h3>💼 My Skills:</h3>
 
@@ -81,5 +81,3 @@
   <img alt="Miro" src="https://img.shields.io/badge/-Miro-050038?style=flat-square&logo=miro&logoColor=white" />
   <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
   </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthpvaghani&show_icons=true&locale=en&layout=compact" alt="parthpvaghani" /></p>
